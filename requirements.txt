@@ -1,0 +1,3 @@
+# requirements.txt
+# No external packages needed
+python==3.10
